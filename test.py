@@ -1,3 +1,3 @@
-lst = [44, 55, 654]
-s = " ".join(map(str, lst))
-print(s)
+n = 67889
+n = str(n)
+print(type(n))
